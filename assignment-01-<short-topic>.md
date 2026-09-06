@@ -1,4 +1,5 @@
 Question 1: 
+
 Part A: An obvious problem that comes with using terms like thousand year flood is that people will think the next flood of this magnitude will happen in the year 3017 and it is therefor not something worth worrying about. It also encourages inaction as someone could conclude that these sort of disasters are environmental freak accidents and there's nothing that could have been done. While it is probably true that even a theoretical clairvoyant Texan government with unlimited resources could not have stopped the bulk of Hurricane Harvey's damage there is a gradient of damages/damage risk that is both economical and moral to prevent.
 
 Part B: The odds of a thousand year flood do not change every year. There is no poseidon timer where a Hurricane Harvey event must happen by a certain date. A hurricane hitting Texas in 2017 and a hurricane hitting Texas in 2027 are independent events.
